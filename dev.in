@@ -1,0 +1,5 @@
+streamlit_webrtc
+mediapipe
+opencv-python-headless
+matplotlib
+pydub
