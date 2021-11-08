@@ -206,11 +206,4 @@ fabric.properties
 .idea/
 
 # Custom files
-paper.pkl
-rock.pkl
-scissors.pkl
-noise.pkl
-#data
-exercises_01/
-exercises_02/
-
+tmp/
