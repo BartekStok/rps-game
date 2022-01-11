@@ -15,8 +15,12 @@ $ scikit-learn
 $ streamlit
 ```
 
+## Streamlit
+
+To run app locally```streamlit run app.py```
+
 ## License
 
-This project is licensed under the MIT License 
+This project is licensed under the MIT License
 
 - Copyright 2020 © Bartłomiej Stokłosa
