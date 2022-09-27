@@ -2,6 +2,9 @@
 
 Machine Learning Game Rock-Paper-Scissors
 
+Try it online on streamlit:
+[RPS Online App](https://share.streamlit.io/bartekstok/rps-game/app.py)
+
 ## Used technologies:
 
 ```
@@ -18,6 +21,8 @@ $ streamlit
 ## Streamlit
 
 To run app locally```streamlit run app.py```
+
+
 
 ## License
 
